@@ -1,0 +1,11 @@
+# Web Framework
+sanic==23.12.1
+
+# ORM
+tortoise-orm==0.22.1
+
+# Redis Client with asyncio support
+redis==4.5.5
+
+# PostgreSQL Driver for Tortoise ORM
+asyncpg==0.28.0
